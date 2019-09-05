@@ -61,6 +61,9 @@ levelplot(changeDet1,
           par.settings=PuOrTheme(), 
           xlab="", ylab="",
           main = "1971-85 Change Detection")
+#layout.scale.bar()
+# scalebar(500)
+# scalebar(500, xy = c(229500, 926600), type = "bar", divs = 4)
 
 levels(changeDet2) <- codes_
 levelplot(changeDet2, 

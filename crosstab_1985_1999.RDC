@@ -1,5 +1,5 @@
 file format : IDRISI Raster A.1
-file title  : Cross-Classification : 1985Landcover01_bool | 1971Landcover01_bool
+file title  : Cross-Classification : 1999Landcover01_bool | 1985Landcover01_bool
 data type   : integer
 file type   : binary
 columns     : 64
@@ -23,8 +23,8 @@ flag value  : none
 flag def'n  : none
 legend cats : 4
 code      1 :  1 |  1 Barren Persistence
-code      2 :  2 |  1 Barren Loss
+code      2 :  2 |  1 BArren Loss
 code      3 :  1 |  2 Barren Gain
 code      4 :  2 |  2 Non-Barren Persistence
 lineage     : This file was created by CROSSTAB with the command line: 
-lineage     : 1*D:\OneDrive\Documents\School Work\Clark\Map_Comparison\hw1\map_comparison_hw1\1985Landcover01_bool.rst*D:\OneDrive\Documents\School Work\Clark\Map_Comparison\hw1\map_comparison_hw1\1971Landcover01_bool.rst*NONE*NONE*3*D:\OneDrive\Documents\School Work\Clark\Map_Comparison\hw1\map_comparison_hw1\crosstab_1971_1985.rst*N
+lineage     : 1*D:\OneDrive\Documents\School Work\Clark\Map_Comparison\hw1\map_comparison_hw1\1999Landcover01_bool.rst*D:\OneDrive\Documents\School Work\Clark\Map_Comparison\hw1\map_comparison_hw1\1985Landcover01_bool.rst*NONE*NONE*3*D:\OneDrive\Documents\School Work\Clark\Map_Comparison\hw1\map_comparison_hw1\crosstab_1985_1999.rst*N
